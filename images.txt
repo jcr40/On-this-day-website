@@ -1,0 +1,5 @@
+<img src="images/history-home.png" alt="Historical calendar">
+
+<img src="images/cool-facts.png" alt="Historical artifacts">
+
+<img src="images/browse-months.png" alt="Four seasons">

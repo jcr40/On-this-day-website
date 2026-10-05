@@ -1,0 +1,54 @@
+body {
+   margin: 0;
+   font-family: Arial, sans-serif;
+   background-colr: #F8F3E8;
+   color: #222222;
+}
+
+header {
+   background-color: #17324D;
+   color: white;
+   padding: 20px;
+   text-align: center;
+}
+
+nav a {
+   color: white;
+   margin: 10px;
+   text-decoration: none;
+}
+
+main {
+   max-width: 850px;
+   margin: auto;
+   padding: 30px;
+   text-align: center;
+}
+
+button {
+   background-color: #E6A43A;
+   border: none;
+   border-radius: 5px;
+   padding: 10px 16px;
+   margin: 8px;
+   font-size: 16px;
+}
+
+img {
+   width: 300px;
+   max-width: 100%;
+   margin-top: 20px;
+}
+
+.month-grid {
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+   gap: 10px;
+}
+
+footer {
+   background-color: #17324D;
+   color: white;
+   text-align: center;
+   padding: 15px;
+}
